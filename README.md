@@ -1,6 +1,6 @@
 # Resume Project
 
-Visit the live website: [Resume-Project](https://sebastian-torres-matrix.github.io/task-manager/)
+Visit the live website: [Resume-Project](https://sebastian-torres-matrix.github.io/Resume-Project/)
 
 ## Technologies Used :computer: 
 
